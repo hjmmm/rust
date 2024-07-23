@@ -9,7 +9,7 @@ RNA: `"AUGUUUUCU"` => translates to
 Codons: `"AUG", "UUU", "UCU"`
 => which become a polypeptide with the following sequence =>
 
-Protein: `"methionine", "pPhenylalanine", "serine"`
+Protein: `"methionine", "phenylalanine", "serine"`
 
 There are 64 codons which in turn correspond to 20 amino acids; however, all of the codon sequences and resulting amino acids are not important in this exercise.
 If it works for one codon, the program should work for all of them.
